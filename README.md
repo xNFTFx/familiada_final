@@ -57,3 +57,12 @@
 - Błędna odpowiedź: dźwięk "zle.mp3"
 - Rozpoczęcie gry: dźwięk "intro.mp3"
 - Przejście między pytaniami: dźwięk "miedzy.mp3"
+
+
+## Przyszłe zmiany w aplikacji
+- wczytywanie pytań z bazy danych/pliku csv
+- zaimplementowanie Reacta i poprawa UI
+- automatyzacja wielu procesów związanych z funkcjonowaniem Familiady
+
+### Autor
+Szymon Buchowicz
